@@ -11,13 +11,16 @@ Cada time terá um código e irá jogar contra os demais times.
 Cada jogador pode apostar em apenas um dos times da partida ou no empate.
 
 Caso ganhe, receberá 3 pontos e receberá, a mais, 3 vezes o número de fichas que já possui.
+
  Se tiver 20 fichas, receber 20 + (20*3)
   
 Caso aposte no empate, receberá apenas 1 ponto e receberá, a mais, o mesmo número de fichas que já possui.
+
  Se tiver 30 fichas, receberá 30 + 30;
   
-Caso perca, não receberá nenhuma pontuação e receberá, a menos, um terço do número de fichas que já possui 
-.Se tiver 15 fichas, receberá 15 -(15/3)
+Caso perca, não receberá nenhuma pontuação e receberá, a menos, um terço do número de fichas que já possui.
+
+ Se tiver 15 fichas, receberá 15 -(15/3)
   
 Se qualquer um dos jogadores zerar, ou ficar negativo, o número de fichas, o jogo acaba independentemente de em qual partida estiver
 
